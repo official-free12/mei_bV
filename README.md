@@ -1,0 +1,6 @@
+# 【美股/港股/基金】新版两融双融/配资系统/股票交易/融资融券/北交所/双融/新股申购
+
+买前必读：<br>本系统仅用于技术交流，专业知识模拟培训。如用于商业用途，不对外售卖。<br>仅供操盘训练、学习演示、二次开发专用<br>禁止一切违法行为的利用！<br>Ps：演示服务器用的是低配版，根据每个人网速不一加载速度有快有慢，见谅！<br>example.com，购买请擦亮眼睛，不是在本店购买的不负责售后，已经购买的用户支持补差价更新！<br>此版本所使用技术栈与之前版本有较大更新，老用户购买免费赠送安装服务<br>技术栈使用：Spring Boot，Redis，C#（引擎），MySQL<br>前端：Vue<br>支持Windows安装包、Mac安装包和双端App<br>本次更新内容有：<br>  example.com【美股】【港股】【基金】【债券】<br>  example.com<br> example.com，全新UI，全新UI （重要的事情说三遍！）<br> example.com，后台填写好充值卡信息，前台用户点击时候自动轮询展示<br> example.com，全部开源，全部开源<br> example.com，使用伪撮合式引擎修复版本5中的下单失效<br> example.com，使用全新数据源，自动更新新股和债券信息<br> example.com<br> example.com，分时支持1-5日分时，盘中数据实时更新<br> example.com，可满足大小项目的稳定运行<br> example.com，可随设备变换主题（支持Mac、Windows，安卓以及苹果）<br>Ps: 以上为大功能和大项更新，其余不一一多说，老客户都知道本店的品质【只做精品，只做首发】，大家去演示网站探索吧！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/n2cl3" style="color: red;">https://mega-file.org/n2cl3</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
